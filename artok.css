@@ -16,7 +16,8 @@ td {font-size:16px;color:#52565b;
    text-align:center;
    line-height:30px;
    font-size:20px;
-   margin:auto ;}
+   margin:auto ;
+   border-radius:4px;}
  #nav1 ul li a{
 	text-decoration:none;
 	display:block;
